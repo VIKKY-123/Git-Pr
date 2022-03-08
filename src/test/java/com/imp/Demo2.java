@@ -1,14 +1,11 @@
 package com.imp;
 
-import org.junit.Test;
+
 
 public class Demo2 {
 
-	@Test
-	
-	public void get()
-	{
-		System.out.println("Hello Git Hub");
+	public static void main(String[] args) {
+		System.out.println("rajedra prasadh");
 	}
 	
 }
